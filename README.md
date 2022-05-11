@@ -1,10 +1,11 @@
-# Project title (RENAME)
+# Raytracer-deluxe
 
-## Project description
+## Ray Traicing in One Weekend with Peter Shirley.
+
 ...
 
 ## Build instructions
 ...
 
 ---
-author: 
+author: Nikita Ahapov
