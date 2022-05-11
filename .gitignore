@@ -1,0 +1,8 @@
+CMakeLists.txt.user
+build*/*
+cmake-build-*
+.cache/*
+.idea/*
+.DS_Store
+.vscode/
+compile_commands.json
