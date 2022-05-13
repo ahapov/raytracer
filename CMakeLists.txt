@@ -9,6 +9,9 @@ add_subdirectory(lib/range-v3-0.11.0)
 
 set(SOURCES
     src/main.cc
+    src/ray.h
+    src/vec3.h
+    src/sphere.h
 )
 
 include(cmake/CompilerFlags.cmake)
